@@ -38,8 +38,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/AbdulwaliAlhammadi/3-column-preview-card-component-main.git](https://github.com/AbdulwaliAlhammadi/3-column-preview-card-component.git)
-- Live Site URL: [https://abdulwalialhammadi.github.io/3-column-preview-card-component-main/index.html](https://abdulwalialhammadi.github.io/3-column-preview-card-component/index.html)
+- Solution URL: [https://github.com/AbdulwaliAlhammadi/3-column-preview-card-component-main.git](https://github.com/AbdulwaliAlhammadi/3-column-preview-card-component-main.git)
+- Live Site URL: [https://abdulwalialhammadi.github.io/3-column-preview-card-component-main/index.html](https://abdulwalialhammadi.github.io/3-column-preview-card-component-main/index.html)
 
 ## My process
 
